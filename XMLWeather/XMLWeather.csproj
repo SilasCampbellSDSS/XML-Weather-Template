@@ -103,6 +103,129 @@
   <ItemGroup>
     <None Include="Resources\Rain3.gif" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-vector-search-icon-png-image_320926.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sunny Background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Raining Sky.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Raining Sky1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Raining Sky %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloudySky.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloudySky %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snowingSky %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloudySky3 %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\01d%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\03d1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\03d2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\04d%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\03d%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\02d%402x %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\04d%402x %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\09d%402x %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10d%402x %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11d%402x %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13d%402x %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\50d%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Rainy Sky %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Cloudy Sky %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Snowy Sky.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Clear Sky %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clear Sky %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Paint Stroke %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Blue Paint Stroke.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-brush-light-blue-brush-stroke-png-image_4365586 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-brush-light-blue-brush-stroke-png-image_4365586 %282%29 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-brush-light-blue-brush-stroke-png-image_4365586 %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-brush-light-blue-brush-stroke-png-image_4365586.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\neon-blue-cornflower-blue-turquoise-sky-blue-sky-blue-purple-brush-strokes-and-marks-from-a-dry-brush-splashes-and-smudges-from-watercolor-or-ink-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Blue Paint Stroke1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forecast Cloudy Sky %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clear Sky %282%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forecast Clear Sky %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forecast Rainy Sky %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forecast Snowy Sky %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-brush-light-blue-brush-stroke-png-image_4365586 %283%29.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

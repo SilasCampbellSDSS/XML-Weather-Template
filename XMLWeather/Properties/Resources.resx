@@ -117,6 +117,121 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="01d@2x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\01d@2x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="New Blue Paint Stroke1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\New Blue Paint Stroke1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="04d@2x (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\04d@2x (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Raining Sky (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Raining Sky (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cloudySky (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cloudySky (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sunny Background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sunny Background.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="09d@2x (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\09d@2x (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-vector-search-icon-png-image_320926" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-vector-search-icon-png-image_320926.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cloudySky" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cloudySky.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Clear Sky (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Clear Sky (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Raining Sky1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Raining Sky1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Forecast Clear Sky (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Forecast Clear Sky (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="New Blue Paint Stroke" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\New Blue Paint Stroke.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="New Snowy Sky" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\New Snowy Sky.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="50d@2x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\50d@2x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="neon-blue-cornflower-blue-turquoise-sky-blue-sky-blue-purple-brush-strokes-and-marks-from-a-dry-brush-splashes-and-smudges-from-watercolor-or-ink-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\neon-blue-cornflower-blue-turquoise-sky-blue-sky-blue-purple-brush-strokes-and-marks-from-a-dry-brush-splashes-and-smudges-from-watercolor-or-ink-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-brush-light-blue-brush-stroke-png-image_4365586 (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-brush-light-blue-brush-stroke-png-image_4365586 (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Forecast Cloudy Sky (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Forecast Cloudy Sky (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Clear Sky (2)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Clear Sky (2)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="snowingSky (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\snowingSky (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="13d@2x (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\13d@2x (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="11d@2x (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11d@2x (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="03d@2x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\03d@2x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="New Clear Sky (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\New Clear Sky (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-brush-light-blue-brush-stroke-png-image_4365586 (2)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-brush-light-blue-brush-stroke-png-image_4365586 (2)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Blue Paint Stroke (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Blue Paint Stroke (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Forecast Rainy Sky (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Forecast Rainy Sky (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CloudySky3 (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CloudySky3 (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Forecast Snowy Sky (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Forecast Snowy Sky (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Raining Sky" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Raining Sky.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="03d1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\03d2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="New Rainy Sky (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\New Rainy Sky (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="10d@2x (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\10d@2x (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="search" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\search.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="02d@2x (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\02d@2x (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-brush-light-blue-brush-stroke-png-image_4365586 (2) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-brush-light-blue-brush-stroke-png-image_4365586 (2) (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="04d@2x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\04d@2x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-brush-light-blue-brush-stroke-png-image_4365586" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-brush-light-blue-brush-stroke-png-image_4365586.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="Rain3" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -3467,5 +3582,11 @@
         8mLCPOdJA3rSc0z1rkeO7GWne8b43jvCN77yOeN831EfPNjnvsHAK34no5/94CMUu8lnf23rX4oAqLcB
         FvBECLyHAhnoQAgC7BcTtJIFnYEdwcZtsIM+cgwIxyFCywgwcSdM4UG2lJIWauSFAQEAOw==
 </value>
+  </data>
+  <data name="New Cloudy Sky (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\New Cloudy Sky (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-brush-light-blue-brush-stroke-png-image_4365586 (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-brush-light-blue-brush-stroke-png-image_4365586 (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
